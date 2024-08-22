@@ -1,4 +1,4 @@
-# logax - Logical Flax Modules
+# `logax` - Logical Flax Modules
 
 
 ## Modules
